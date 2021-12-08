@@ -150,9 +150,9 @@ p {
   left: 10%;
   background-color: #fff;
 }
-.doink {
+.fab {
   padding: 1%;
-  color: #000;
+  color: black;
   left: 10%;
 }
 @media (max-width: 1028px){
