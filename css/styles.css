@@ -152,7 +152,7 @@ p {
 }
 .fab {
   padding: 1%;
-  color: black;
+  color: #000;
   left: 10%;
 }
 @media (max-width: 1028px){
