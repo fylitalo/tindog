@@ -143,7 +143,17 @@ p {
   font-weight: 900;
   text-align: center;
   background-color: #ff4c68;
-  padding: 3% 3% 0%;
+  padding: 3% 3% 0;
+}
+#footer{
+  padding: 5%;
+  left: 10%;
+  background-color: #fff;
+}
+.fab {
+  padding: 1%;
+  color: black;
+  left: 10%;
 }
 @media (max-width: 1028px){
   .title-img {
