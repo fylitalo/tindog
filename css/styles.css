@@ -137,6 +137,14 @@ p {
 #pricing {
   padding: 100px;
 }
+#cta {
+  font-family: "montserrat-black";
+  color: #fff;
+  font-weight: 900;
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 3% 3% 0%;
+}
 @media (max-width: 1028px){
   .title-img {
     position: static;
