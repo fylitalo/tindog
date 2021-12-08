@@ -149,13 +149,14 @@ p {
   padding: 5%;
   left: 10%;
   background-color: #fff;
+  text-align: center;
 }
 
 
 .fab {
   padding: 1%;
   color: black;
-  left: 10%;
+  text-align:center;
 }
 @media (max-width: 1028px){
   .title-img {
