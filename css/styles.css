@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat-Black";
+  font-family: "Montserrat-black";
 }
 
 #title {
@@ -144,19 +144,18 @@ p {
   text-align: center;
   background-color: #ff4c68;
   padding: 3% 3% 0;
-  text-align: center;
 }
 #footer{
   padding: 5%;
-   background-color: #fff;
   text-align: center;
+  background-color: #fff;
 }
 
 
 .fab {
   padding: 1%;
-  color: black;
-
+  color: #F7A6D3;
+text-align: center;
 }
 @media (max-width: 1028px){
   .title-img {
