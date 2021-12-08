@@ -144,10 +144,11 @@ p {
   text-align: center;
   background-color: #ff4c68;
   padding: 3% 3% 0;
+  text-align: center;
 }
 #footer{
   padding: 5%;
-  text-align: center;
+ 
   background-color: #fff;
 }
 
@@ -155,7 +156,7 @@ p {
 .fab {
   padding: 1%;
   color: black;
-text-align: center;
+
 }
 @media (max-width: 1028px){
   .title-img {
