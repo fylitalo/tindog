@@ -147,16 +147,15 @@ p {
 }
 #footer{
   padding: 5%;
-  left: 10%;
-  background-color: #fff;
   text-align: center;
+  background-color: #fff;
 }
 
 
 .fab {
   padding: 1%;
   color: black;
-  text-align:center;
+text-align: center;
 }
 @media (max-width: 1028px){
   .title-img {
